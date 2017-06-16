@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Agent Based tracking model
 
-You can use the [editor on GitHub](https://github.com/umair528/agent_tracking_model/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Agent base tracking model is an idea to perform analysis on temporal data of multiple registered agents in order to keep track of agents and generate agent profile report.
+The assumptions are that system is facilitated with all agent’s temporal data 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Objectives
+1. Record each agent temporal data in database
+2. Facilitate organization to generate organization employees summary report
+3. Facilitate organization to generate activity report of individuals employees
+4. Facilitate organization to keep track of registered agents  
+### Technology stack
+- Python
+- Flask Web framework
+- Postgres / PostGIS
+- Open layers 
+- HTML/CSS
+- Bootstrap
+- jQuery
+- High charts library
+- QGIS
 
 **Bold** and _Italic_ and `Code` text
 
