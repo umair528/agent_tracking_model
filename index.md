@@ -39,10 +39,10 @@ violation inquiries.
 ![Image of flow](/flow-diagram.png)
 
 **Dashboard Panel** 
-![image of dashboard](/dashboard%20panel.png)
+![image of dashboard](/dashboard panel.png)
 
 ### Support or Contact
 
 ## Email :umair.abbas528@gmail.com
 Info: Student MS remote sensing & GIS
-![image of footer](https://github.com/umair528/agent_tracking_model/blob/master/grel-ist.png)
+![image of footer](/grel-ist.png)
