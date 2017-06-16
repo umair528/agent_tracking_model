@@ -19,9 +19,9 @@ The assumptions are that system is facilitated with all agent’s temporal data
 - High charts library
 - QGIS
 
-**Bold** and _Italic_ and `Code` text
+**Dashboard Panel** 
 
-[Link](url) and ![Image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
+[Image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
