@@ -34,14 +34,15 @@ violation inquiries.
 - jQuery
 - High charts library
 - QGIS
+
 ### Flow Diagram
-[image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
+![Image of flow](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 **Dashboard Panel** 
-![image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
+![image of dashboard](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
 
 ### Support or Contact
 
 ## Email :umair.abbas528@gmail.com
 Info: Student MS remote sensing & GIS
-![image](https://github.com/umair528/agent_tracking_model/blob/master/grel-ist.png)
+![image of footer](https://github.com/umair528/agent_tracking_model/blob/master/grel-ist.png)
