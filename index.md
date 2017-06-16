@@ -20,16 +20,15 @@ The assumptions are that system is facilitated with all agent’s temporal data
 - QGIS
 
 **Dashboard Panel** 
+![image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
 
-[Image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
-```
+**Organization Summary** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umair528/agent_tracking_model/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://github.com/umair528/agent_tracking_model/blob/master/orgsum.png)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Email :umair.abbas528@gmail.com
+Info: Student MS remote sensing & GIS
+
+
