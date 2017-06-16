@@ -39,7 +39,7 @@ violation inquiries.
 ![Image of flow](/flow-diagram.png)
 
 **Dashboard Panel** 
-![image of dashboard](/dashboard panel.png)
+![image of dashboard](/dashboard_panel.png)
 
 ### Support or Contact
 
