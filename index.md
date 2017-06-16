@@ -24,6 +24,7 @@ violation inquiries.
 2. Facilitate organization to generate organization employees summary report
 3. Facilitate organization to generate activity report of individuals employees
 4. Facilitate organization to keep track of registered agents  
+
 ### Technology stack
 - Python
 - Flask Web framework
