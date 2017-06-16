@@ -21,14 +21,11 @@ The assumptions are that system is facilitated with all agent’s temporal data
 
 **Dashboard Panel** 
 ![image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
-
-**Organization Summary** 
-
-![image](https://github.com/umair528/agent_tracking_model/blob/master/orgsum.png)
+**Flow Diagram** 
+![image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 ### Support or Contact
 
 ## Email :umair.abbas528@gmail.com
 Info: Student MS remote sensing & GIS
-
-
+![image](https://github.com/umair528/agent_tracking_model/blob/master/grel-ist.png)
