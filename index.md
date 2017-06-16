@@ -35,7 +35,7 @@ violation inquiries.
 - High charts library
 - QGIS
 ### Flow Diagram
-![image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
+[image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 **Dashboard Panel** 
 ![image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
