@@ -1,5 +1,6 @@
 ## Welcome to Agent Based tracking model
-**Introduction**
+## Introduction
+
 Agent base tracking model is an idea to perform analysis on temporal data
 of multiple agents in order to keep track of agents and nd correlation be-
 tween agents. The assumptions are that system is facilitated with all agents
