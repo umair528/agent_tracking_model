@@ -36,10 +36,10 @@ violation inquiries.
 - QGIS
 
 ### Flow Diagram
-![Image of flow](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
+![Image of flow] (https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 **Dashboard Panel** 
-![image of dashboard](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
+![image of dashboard] (https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
 
 ### Support or Contact
 
