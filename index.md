@@ -18,11 +18,11 @@ The assumptions are that system is facilitated with all agent’s temporal data
 - jQuery
 - High charts library
 - QGIS
+### Flow Diagram
+![image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 **Dashboard Panel** 
 ![image](https://github.com/umair528/agent_tracking_model/blob/master/dashboard%20panel.png)
-**Flow Diagram** 
-![image](https://github.com/umair528/agent_tracking_model/blob/master/flow-diagram.png)
 
 ### Support or Contact
 
